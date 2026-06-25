@@ -1,0 +1,10 @@
+pillow>=10
+numpy>=1.26
+
+# Optional acceleration / research backends:
+# opencv-python>=4.9
+# PyQt6>=6.7
+# onnxruntime-directml>=1.18
+# torch
+# torchvision
+# mediapipe
